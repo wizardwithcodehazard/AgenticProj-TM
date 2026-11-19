@@ -29,6 +29,11 @@ node_modules/
 out/
 build/
 
+# MaraudersMap & Tool Artefacts
+.maraudersmapmd/
+docs/MaraudersMap/
+docs/
+
 # Logs
 *.log
 npm-debug.log*

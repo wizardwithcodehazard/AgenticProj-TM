@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "source": "c:\\Users\\Sahil\\Desktop\\TechM\\README.md",
+  "generated": "2026-11-19T07:29:31.727Z",
+  "totalTokens": 823,
+  "entries": [
+    {
+      "section": "End-to-End Agentic Flow Architecture",
+      "slug": "end-to-end-agentic-flow-architecture",
+      "lineRange": [
+        6,
+        47
+      ],
+      "tokens": 384,
+      "keywords": [],
+      "links": [],
+      "summary": "subgraph Client[\"Next.",
+      "aiHints": []
+    },
+    {
+      "section": "Multi-Agent Roles & Responsibilities",
+      "slug": "multi-agent-roles-responsibilities",
+      "lineRange": [
+        48,
+        57
+      ],
+      "tokens": 185,
+      "keywords": [
+        "Plan & Transaction Auditor",
+        "Loyalty & Tier Strategist",
+        "Perks & Retention Personalizer",
+        "Qwen 2.5 3B"
+      ],
+      "links": [],
+      "summary": "| **Plan & Transaction Auditor** | Inspects purchased plan category (5G Unlimited, Entertainment, Annual), validates customer tenure, and verifies on-time renewal streak. Plan & Transaction Auditor Lo",
+      "aiHints": []
+    },
+    {
+      "section": "Tech Stack",
+      "slug": "tech-stack",
+      "lineRange": [
+        58,
+        66
+      ],
+      "tokens": 103,
+      "keywords": [
+        "Frontend",
+        "Backend",
+        "Agent Orchestration",
+        "Local LLM"
+      ],
+      "links": [],
+      "summary": "- **Frontend**: Next. Frontend Backend Agent Orchestration Local LLM",
+      "aiHints": []
+    },
+    {
+      "section": "Running Locally",
+      "slug": "running-locally",
+      "lineRange": [
+        67,
+        88
+      ],
+      "tokens": 151,
+      "keywords": [
+        "1. Start Local LLM (llama.cpp)",
+        "2. Start FastAPI Backend",
+        "3. Start Next.js Frontend"
+      ],
+      "links": [],
+      "summary": "Run your llama.",
+      "aiHints": []
+    }
+  ]
+}
